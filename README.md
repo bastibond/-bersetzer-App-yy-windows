@@ -1,8 +1,18 @@
 https://github.com/bastibond/-bersetzer-App-yy-
 -----------
+# -bersetzer-App-yy-windows
+EXE yes ,yes ,ja,ja
+
+
+
+
+
+
+
+
+
 -----------
 # -bersetzer-App-yy-windows
-
 -----------------
 -bersetzer-App-yy
 ###################
