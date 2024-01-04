@@ -4,6 +4,10 @@ https://github.com/bastibond/-bersetzer-App-yy-
 EXE yes ,yes ,ja,ja
 Übersetzer-App
 
+-
+https://github.com/bastibond/-bersetzer-App-yy-windows/blob/main/01.PNG
+https://github.com/bastibond/-bersetzer-App-yy-windows/blob/main/02.PNG
+-
 
 
 
