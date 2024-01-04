@@ -1,8 +1,8 @@
 https://github.com/bastibond/-bersetzer-App-yy-
 -----------
-# -bersetzer-App-yy-windows
+# Übersetzer-App-bersetzer-App-yy-windows
 EXE yes ,yes ,ja,ja
-
+Übersetzer-App
 
 
 
